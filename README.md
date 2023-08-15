@@ -1,7 +1,5 @@
 👋 Hi, I’m Sean. 
 
-:bird: [@osean_man](https://twitter.com/osean_man)
-
 :computer: [osean_man](https://github.com/osean-man)
 
 :ninja: [sean](https://tryhackme.com/p/sean)
